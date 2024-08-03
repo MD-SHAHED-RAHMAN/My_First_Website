@@ -1,0 +1,49 @@
+.Copy{
+    padding-left: 99px;
+    font-weight: 300;
+}
+.Con{
+    padding-left: 443px;
+    font-weight: 300;
+}
+.bod{
+    margin-top: 10px;
+    background-color: antiquewhite;
+    width: 600px;
+    height: 300px;
+}
+.containerr{
+    background-color: rgb(247 247 247);
+    margin-top: 114px;
+    margin-bottom: 84px;
+}
+.card{
+    height: 340px;
+}
+img{
+    height: 340px;
+    border-radius: 0px 10px 10px 0px;
+}
+.card-text{
+    padding-top: 29px;
+    font-size: 21px;
+    font-weight: 500;
+}
+.build{
+    font-size: 46px;
+    font-weight: 900;
+}
+.but{
+    padding-left: 198px;
+    margin-bottom: 30px;
+    margin-top: 14px;
+}
+.About{
+    background-color:#fff7ec;
+}
+.My{
+    padding-left: 210px;
+}
+.Eveniet{
+    padding-left: 80px;
+}
